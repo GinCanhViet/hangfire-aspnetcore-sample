@@ -1,0 +1,118 @@
+# Visual Studio
+.vs/
+*.dbmdl
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+build/
+[Bb]in/
+[Oo]bj/
+TestResults/
+
+# NuGet
+*.nupkg
+# NuGet Packages folder
+**/packages/*
+# NuGet Symbol Packages
+*.snupkg
+
+# MSTest test results
+*.trx
+*.coverage
+*.coveragexml
+
+# NCrunch
+*.ncrunch*
+.*crunch*
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# DotCover
+*.dotCover
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlh
+*.tli
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+*.cache
+*.csproj.vspscc
+*.csproj.user
+*.vbproj.user
+*.dbmdl
+*.bak
+*.backup
+*.swp
+*.swo
+*.sln.docstates
+
+# Others
+*.log
+*.tlog
+*.vsix
+*.docstates
+*.psess
+*.vsp
+*.vspx
+*.vsix
+*.cache
+*.dbmdl
+*.bak
+*.backup
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+$RECYCLE.BIN/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+*.http
