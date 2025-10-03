@@ -37,7 +37,7 @@ This repository demonstrates how to integrate Hangfire into an ASP.NET Core solu
 
 1. **Clone the repository:**
     ```sh
-    git clone <your-repo-url>
+    gh repo clone GinCanhViet/hangfire-aspnetcore-sample
     ```
 
 2. **Configure the database connection:**
@@ -92,7 +92,7 @@ Dự án này minh họa cách tích hợp Hangfire vào ASP.NET Core để qu�
 
 1. **Clone repository:**
    ```sh
-   git clone <your-repo-url>
+   gh repo clone GinCanhViet/hangfire-aspnetcore-sample
    ```
 
 2. **Cấu hình kết nối database:**
@@ -118,3 +118,4 @@ Dự án này minh họa cách tích hợp Hangfire vào ASP.NET Core để qu�
 Nếu bạn có ý tưởng hoặc muốn đóng góp thêm tính năng, hãy tạo pull request hoặc mở issue để cùng thảo luận!
 
 ---
+
